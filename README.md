@@ -1,3 +1,5 @@
+![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/TDS/%5B%20Input%20%5D%20%20-%20%20%20TDS%20Sensor.jpg?raw=true)
+
 # TDS-Sensor
 **The TDS (Total Dissolved Solids) Sensor**, also known as an Analog Electrical Conductivity (EC) Sensor, is used to measure the concentration of dissolved substances in water, such as minerals, salts, and ions. It works by measuring the water’s electrical conductivity — the higher the conductivity, the greater the total dissolved solids.
 
